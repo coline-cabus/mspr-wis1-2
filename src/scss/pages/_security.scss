@@ -1,13 +1,16 @@
-$primary: #3F51B5;
-$dark-primary: #303F9F;
+$primary: #49C6E5;
+$dark-primary: #54DEFD;
 $light-primary: #C5CAE9;
 $text: #FFFFFF;
 $primary-text: #212121;
 $secondary-text: #757575;
-$accent: #FF4081;
+$accent: #00BD9D;
+
+
+
 
 .timeline {
-  padding: 100px 0;
+  padding: 300px 0 300px 0;
 }
 
 .timeline {
@@ -159,7 +162,7 @@ $accent: #FF4081;
 
 .timeline-item {
   .timeline-img-header {
-    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0, .4)), url('https://picsum.photos/1000/800/?random') center center no-repeat;
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0, .4)), url('https://cdn.pixabay.com/photo/2018/07/26/13/39/internet-3563638_1280.jpg') center center no-repeat;
     background-size: cover;
   }
 }

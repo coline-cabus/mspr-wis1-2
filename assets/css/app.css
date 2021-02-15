@@ -15297,7 +15297,7 @@ textarea.form-control-lg {
   }
 }
 .timeline {
-  padding: 100px 0;
+  padding: 300px 0 300px 0;
 }
 
 .timeline {
@@ -15318,7 +15318,7 @@ textarea.form-control-lg {
 }
 
 .title {
-  background: #3F51B5;
+  background: #49C6E5;
   color: #FFFFFF;
   padding: 150px 0;
 }
@@ -15394,7 +15394,7 @@ textarea.form-control-lg {
 .timeline-img {
   width: 30px;
   height: 30px;
-  background: #3F51B5;
+  background: #49C6E5;
   border-radius: 50%;
   position: absolute;
   left: 50%;
@@ -15403,7 +15403,7 @@ textarea.form-control-lg {
 }
 
 .bouton {
-  background: #3F51B5;
+  background: #49C6E5;
   color: #FFFFFF;
   padding: 8px 20px;
   text-transform: uppercase;
@@ -15415,7 +15415,7 @@ textarea.form-control-lg {
   box-shadow: 0 1px 3px -1px rgba(0, 0, 0, 0.6);
 }
 .bouton:hover, .bouton:active, .bouton:focus {
-  background: #32408f;
+  background: #1fb6dc;
   color: #FFFFFF;
   text-decoration: none;
 }
@@ -15431,7 +15431,7 @@ textarea.form-control-lg {
 }
 
 .timeline-item .timeline-img-header {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://picsum.photos/1000/800/?random") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://cdn.pixabay.com/photo/2018/07/26/13/39/internet-3563638_1280.jpg") center center no-repeat;
   background-size: cover;
 }
 
@@ -15450,12 +15450,12 @@ textarea.form-control-lg {
 blockquote {
   margin-top: 30px;
   color: #757575;
-  border-left-color: #3F51B5;
+  border-left-color: #49C6E5;
   padding: 0 20px;
 }
 
 .date {
-  background: #FF4081;
+  background: #00BD9D;
   display: inline-block;
   color: #FFFFFF;
   padding: 10px;
