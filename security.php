@@ -14,7 +14,7 @@ require_once 'template-parts/header.php'; ?>
 
             <div class="container">
 
-                <h2 class="h1"> Comment intégrer l'équipe ?</h2>
+                <h2 class="h1">Comment sécurisé ?</h2>
 
                 <div class="timeline-item">
 
@@ -22,17 +22,18 @@ require_once 'template-parts/header.php'; ?>
 
                     <div class="timeline-content js--fadeInLeft">
 
-                        <h2>On se renseigne sur notre page internet</h2>
+                        <h2>Inscription sécurisée</h2>
 
-                        <div class="date">Visite</div>
+                        <div class="date">Papier d'identité</div>
 
-                        <p class="explain">Venez découvrir notre projet sur l'onglet 'notre concept', cela vous
-                            permettra d'en apprendre plus sur nous. Par la suite, une fois que vous êtes intéréssé par
-                            le projet, n'hésitez pas à les montrer à votre
-                            famille, amies, collègues de travail. Afin que nous soyons nombreux à intégrer l'équipe de
-                            Click&Share.</p>
+                        <p class="explain">Click&Share vous promet une utilisation sécurisée. Pour ce faire lors de
+                            votre inscription, il vous sera demandé (Aidant/Aidée) votre carte d’identité et vos
+                            informations bancaires. Cela nous permet de sécuriser d’avantage l’utilisation de
+                            l’application. Sachez qu'en cas de dommage les deux partis sont mise avant de pouvoir
+                            déterminer la nature du problème, et de voir s’il est possible d’y trouver une
+                            solution. </p>
 
-                        <a class="bouton bnt-more" href="javascript:void(0)">Notre concept</a>
+                        <a class="bouton bnt-more" href="notre-concept.php">Notre concept</a>
 
                     </div>
 
@@ -46,17 +47,18 @@ require_once 'template-parts/header.php'; ?>
 
                         <div class="timeline-img-header">
 
-                            <h2>Comment s'inscrire ?</h2>
+                            <h2>Limite prix du colis</h2>
 
                         </div>
 
-                        <div class="date">Intégration</div>
+                        <div class="date">Prix</div>
 
-                        <p class="explain">Par la suite venez vous inscrire et si vous le souhaiter, contacter un membre
-                            de l'équipe afin d'obtenir des informations supplémentaires. N'hésitez pas également à
-                            parrainer, cela vous donnera de nombreux avantages.</p>
+                        <p class="explain">Afin de limites les fraudes, et de vous assurer du bon fonctionnement du
+                            service, nous avons fixé comme règle une limite de prix. En effet, les colis et services ne
+                            dépasseront pas 100 €. Sachez que nos partenaires sont également à l’origine de cette règle.
+                            Vous pourrez consulter les magasins. </p>
 
-                        <a class="bouton bnt-more" href="javascript:void(0)">S'inscrire</a>
+                        <a class="bouton bnt-more" href="partners.php">Partenaires</a>
 
                     </div>
 
@@ -70,18 +72,18 @@ require_once 'template-parts/header.php'; ?>
 
                         <div class="timeline-img-header">
 
-                            <h2>Sécurisons click&share</h2>
+                            <h2>Suivis GPS</h2>
 
                         </div>
 
-                        <div class="date">Sécurité</div>
+                        <div class="date">GPS</div>
 
-                        <p class="explain">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ipsa ratione
-                            omnis alias
-                            cupiditate saepe atque totam aperiam sed nulla voluptatem recusandae dolor, nostrum
-                            excepturi amet in dolores. Alias, ullam.</p>
+                        <p class="explain">Après que vous aurez réceptionné la commande, le GPS de votre téléphone
+                            s’activera, sachez que l’application (et donc le QR code) ne fonctionne seulement si le GPS
+                            est activé. Toutes les informations sont disponibles durant l’inscription et le
+                            téléchargement de l’application.</p>
 
-                        <a class="bouton bnt-more" href="javascript:void(0)">Sécurité</a>
+                        <a class="bouton bnt-more" href="register.php">S'inscrire</a>
 
                     </div>
 
@@ -95,17 +97,17 @@ require_once 'template-parts/header.php'; ?>
 
                         <div class="timeline-img-header">
 
-                            <h2>Quels sont les magasins concernés ?</h2>
+                            <h2>Comment récupérer la commande ?</h2>
                         </div>
 
-                        <div class="date">Partenaires</div>
+                        <div class="date">QR code</div>
 
-                        <p class="explain">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ipsa ratione
-                            omnis alias
-                            cupiditate saepe atque totam aperiam sed nulla voluptatem recusandae dolor, nostrum
-                            excepturi amet in dolores. Alias, ullam.</p>
+                        <p class="explain">Lors de la réception de la commande, vous devrez scanner un QR code, afin
+                            d’être sûr que la bonne personne réceptionne, mais aussi afin de vérifier vos informations
+                            personnelles auprès du magasin partenaire. L'application est disponible sur notre page
+                            d'accueil.</p>
 
-                        <a class="bouton bnt-more" href="javascript:void(0)">Partenaires</a>
+                        <a class="bouton bnt-more" href="index.php">Accueil</a>
                     </div>
 
                 </div>
@@ -116,12 +118,13 @@ require_once 'template-parts/header.php'; ?>
 
                     <div class="timeline-content js--fadeInLeft">
 
-                        <div class="date">Livraisons</div>
+                        <div class="date">Problème de commande</div>
 
-                        <h2>Et une fois livré ?</h2>
+                        <h2>Remboursement</h2>
 
-                        <blockquote>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta explicabo debitis
-                            omnis dolor iste fugit totam quasi inventore!
+                        <blockquote>Si problème avec votre commande il y a, sachez que nous nous engageons à vous
+                            rembourser à hauteur de 100 %. Et que toute personnes manquant à notre règlement sera radié
+                            de l’application et de nos clients. Tout vol engage à des poursuites judiciaires.
 
                         </blockquote>
                     </div>

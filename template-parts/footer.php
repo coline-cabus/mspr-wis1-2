@@ -47,13 +47,13 @@
 
                 <ul>
                     <li>
-                        <a href=""><img src="assets/svg/icon-facebook.svg"> </a>
+                        <a href=""><img class="footer-icons" src="assets/svg/icon-facebook.svg"> </a>
                     </li>
                     <li>
-                        <a href=""><img src="assets/svg/icon-insta.svg"></a>
+                        <a href=""><img class="footer-icons" src="assets/svg/icon-insta.svg"></a>
                     </li>
                     <li>
-                        <a href=""><img src="assets/svg/icon-linkedin.svg"></a>
+                        <a href=""><img class="footer-icons" src="assets/svg/icon-linkedin.svg"></a>
                     </li>
                     <li>
                         <a href=""></a>
