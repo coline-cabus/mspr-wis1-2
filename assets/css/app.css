@@ -15920,11 +15920,19 @@ h2, .h2 {
 .card .card-body a:after {
   content: "";
   display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 541px;
+  right: 0;
+  bottom: 0;
+  left: -240px;
+  border: 80px solid #fff;
+  border-radius: 50px;
+  transform: rotate(-24deg);
+  z-index: -1;
+  background-color: white;
+  box-shadow: 200px 150px 0px 0px #BFF0ED;
 }
 
 .text.h1-home {

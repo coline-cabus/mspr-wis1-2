@@ -22,14 +22,9 @@ require_once 'template-parts/db.php';
         <section id="partners-presentation">
             <div class="container">
 
-                <h1 class="my-3"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
+                <h1 class="my-3"> Vous pouvez retrouvez ici tous nos partenaires.</h1>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam officia
-                    quisquam quos tempora? Accusantium adipisci assumenda consectetur cumque deleniti dolorem
-                    dolorum facere, illum ipsam
-                    laborum laudantium libero, officiis possimus provident quaerat quasi, quia quo unde vitae
-                    voluptates! Amet aspernatur at, consequatur culpa debitis dolorem et modi, officia quis, velit
-                    vitae!</p>
+                <p>Vous pouvez retrouvez ici tous nos partenaires </p>
 
 
                 <form action="" method="GET" class="mb-5 mx-auto" style="max-width: 570px;">
