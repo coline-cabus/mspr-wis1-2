@@ -14864,6 +14864,9 @@ textarea.form-control-lg {
   padding: 6px;
 }
 
+#main {
+  background-color: white !important;
+}
 #main h1, #main .h1 {
   font-weight: bolder;
   font-family: "Poppins", sans-serif;
@@ -14871,7 +14874,6 @@ textarea.form-control-lg {
 
 #home-images {
   padding: 100px 0 200px;
-  border: solid 2px blue;
 }
 #home-images .heading-wrapper {
   text-align: center;
@@ -14889,17 +14891,8 @@ textarea.form-control-lg {
   border-radius: 50px;
   box-shadow: 1px 1px 1px darkgrey;
 }
-#home-images .heading-wrapper .card:hover {
-  transition: transform 0.2s ease;
-  transform: scale(1.03);
-  padding: 0 0 170px;
-}
 #home-images .heading-wrapper .appli {
   padding: 0 5px;
-}
-#home-images .heading-wrapper .appli:hover {
-  transition: transform 0.2s ease;
-  transform: scale(1.03);
 }
 
 #jumbotron-1 .container {

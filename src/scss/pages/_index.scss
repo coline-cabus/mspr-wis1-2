@@ -1,13 +1,14 @@
 #main {
+  background-color: white !important;
+
   h1 {
     font-weight: bolder;
-    font-family: 'Poppins', sans-serif;;
+    font-family: 'Poppins', sans-serif;
   }
 }
 
 #home-images {
   padding: 100px 0 200px;
-  border: solid 2px blue;
 
   .heading-wrapper {
     text-align: center;
@@ -27,21 +28,14 @@
       border-radius: 50px;
       box-shadow: 1px 1px 1px darkgrey;
 
-      &:hover {
-        transition: transform 0.2s ease;
-        transform: scale(1.03);
-        padding: 0 0 170px;
-      }
+
     }
 
 
     .appli {
       padding: 0 5px;
 
-      &:hover {
-        transition: transform 0.2s ease;
-        transform: scale(1.03);
-      }
+
     }
   }
 }
