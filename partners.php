@@ -22,9 +22,8 @@ require_once 'template-parts/db.php';
         <section id="partners-presentation">
             <div class="container">
 
-                <h1 class="my-3"> Vous pouvez retrouvez ici tous nos partenaires.</h1>
+                <h1 class="titre my-3"> Vous pouvez retrouvez ici tous nos partenaires.</h1>
 
-                <p>Vous pouvez retrouvez ici tous nos partenaires </p>
 
 
                 <form action="" method="GET" class="mb-5 mx-auto" style="max-width: 570px;">

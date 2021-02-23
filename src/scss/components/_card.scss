@@ -1,10 +1,15 @@
 .card {
   position: relative;
   height: 100%;
+  border-radius: 50px;
+
 
   .card-header {
     font-size: 1.3rem;
     font-weight: 600;
+    background-color: #BFF0ED;
+    border-radius: 50px;
+    text-align: center;
   }
 
   .card-img-top {
@@ -12,6 +17,10 @@
     object-fit: contain;
     object-position: center center;
     padding: 2rem;
+  }
+
+  .card-text {
+    text-align: justify;
   }
 
   .card-body {

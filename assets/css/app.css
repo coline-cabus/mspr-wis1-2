@@ -15315,6 +15315,10 @@ body:after {
   padding: 0 0 75px 0;
 }
 
+.my-3 {
+  margin-top: 150px;
+}
+
 #main {
   font-family: "Ubuntu";
 }
@@ -15901,10 +15905,14 @@ h2, .h2 {
 .card {
   position: relative;
   height: 100%;
+  border-radius: 50px;
 }
 .card .card-header {
   font-size: 1.3rem;
   font-weight: 600;
+  background-color: #BFF0ED;
+  border-radius: 50px;
+  text-align: center;
 }
 .card .card-img-top {
   height: 200px;
@@ -15913,6 +15921,9 @@ h2, .h2 {
   -o-object-position: center center;
      object-position: center center;
   padding: 2rem;
+}
+.card .card-text {
+  text-align: justify;
 }
 .card .card-body p {
   margin-bottom: 0;
